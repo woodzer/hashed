@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Peter Wood"
+	],
+	"copyright": "Copyright © 2019, Peter Wood",
+  "dependencies": {
+    "fluent-asserts": "~>0.12.4"
+  },
+	"description": "A simple library that provides a container to make it easier to work with data in name/value pair textual formats.",
+	"license": "MIT",
+	"name": "hashed",
+  "targetType": "library"
+}
